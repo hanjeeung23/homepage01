@@ -1,0 +1,42 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+#contaner { 
+    margin: 0 auto;
+    width: 120px; 
+}
+nav{
+    flot:right; 
+    width: 900px;
+    height: 100px;
+    background-color: green;
+}
+
+
+#slideShow { 
+    clear: both; 
+    width:100%;
+    height: 300px;
+    background-color: orange;
+    overflow: hidden;
+} 
+
+#contents { 
+    width: 100%;
+    height: 300px; 
+}
+
+#tabMenu { 
+    float: right;
+    width: 600px;
+    height: 100%; 
+    background-color: skyblue; 
+}
+
+fotter { 
+    width: 100;
+    height: 100px;
+    background-color: gray;
+    }
